@@ -77,11 +77,7 @@ struct ContentView: View {
             }
             
         }
-//        .background(.blue)
-//        .aspectRatio(contentMode: /*@START_MENU_TOKEN@*/.fill/*@END_MENU_TOKEN@*/)
-//        .ignoresSafeArea(edges: .bottom)
-//        
-       
+    
     }
 }
 
