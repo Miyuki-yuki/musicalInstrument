@@ -1,2 +1,3 @@
 # musicalInstrument
-![Untitled design-7](https://github.com/Miyuki-yuki/musicalInstrument/assets/87884079/324f579e-aa58-45b7-af68-dd2e78ffc7d7)
+
+![details](https://github.com/Miyuki-yuki/musicalInstrument/assets/87884079/d8d8816b-c201-4f1f-9591-8d737d5bcd7f)
